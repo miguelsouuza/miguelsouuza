@@ -1,7 +1,6 @@
 ### Ola sou o Miguel!!! 👋
-
-- 🌱 Estudando Analise e desenvolvimento de sistemas ...
-- 😄 Pronome: Ele/Dele ...
+- Curso Tecnico Completo de Analise e desenvolvimento de sistemas 
+- Começando Tecnologo de Analise e desenvolvimento de sistemas
 
  <div>
   <a href="https://github.com/miguelsouuza">
