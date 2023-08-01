@@ -1,5 +1,5 @@
 ### Ola sou o Miguel!!! 👋
-- Curso Tecnico Completo de Analise e desenvolvimento de sistemas 
+- Tecnologo em Analise e desenvolvimento de sistemas 
 - Começando Tecnologo de Analise e desenvolvimento de sistemas
 
  <div>
