@@ -1,6 +1,5 @@
 ### Ola sou o Miguel!!! 👋
 - Tecnico em Analise e desenvolvimento de sistemas 
-- Começando curso Superior de Analise e desenvolvimento de sistemas
 
  <div>
   <a href="https://github.com/miguelsouuza">
