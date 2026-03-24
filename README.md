@@ -34,5 +34,5 @@ Sistema para cadastro de alunos, professores e notas
 ---
 
 ## 📫 Contato
-- Email: (seu email)
-- LinkedIn: (se tiver)
+- Email: [(miguel.silva.souuza@gmail.com)]
+- LinkedIn: [(https://www.linkedin.com/in/miguel-souza-silva-8b1325211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
