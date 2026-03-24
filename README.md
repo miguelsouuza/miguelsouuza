@@ -17,7 +17,7 @@
 
 ### 🧮 Calculadora
 Calculadora feita com HTML, CSS e JS  
-🔗 Link do projeto: (coloca aqui)
+🔗 [(https://github.com/miguelsouuza/Calculadora)]
 
 ---
 
