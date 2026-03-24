@@ -1,12 +1,38 @@
-### Ola sou o Miguel!!! 👋
-- Tecnico em Analise e desenvolvimento de sistemas 
+# 👋 Olá, eu sou o Miguel!
 
- <div>
-  <a href="https://github.com/miguelsouuza">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelsouuza&show_icons=true&theme=tokyonight"/>
-   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsouuza&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>-->
- </div>
-  
-  <div>
-   <a href="mailto:miguel.silva.souuza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  </div>
+💻 Desenvolvedor em formação (C# / Back-end)  
+📍 São Paulo - Brasil  
+
+---
+
+## 🚀 Tecnologias que uso
+- 💻 C# / .NET
+- 🗄️ SQL Server
+- 🌐 HTML, CSS, JavaScript
+- ⚙️ Git e GitHub
+
+---
+
+## 📌 Projetos em destaque
+
+### 🧮 Calculadora
+Calculadora feita com HTML, CSS e JS  
+🔗 Link do projeto: (coloca aqui)
+
+---
+
+### 🏫 Projeto Escolar
+Sistema para cadastro de alunos, professores e notas  
+✔ CRUD completo  
+✔ Estrutura em evolução  
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelsouuza&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+- Email: (seu email)
+- LinkedIn: (se tiver)
