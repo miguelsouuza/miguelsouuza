@@ -14,10 +14,17 @@
 ---
 
 ## 📌 Projetos em destaque
+### Comparador
+Comparador de dados entre Planilhas excel com divergências e geração de relatórios
+🔗[https://github.com/miguelsouuza/excel-data-comparator-csharp]
 
-### 🧮 Calculadora
-Calculadora feita com HTML, CSS e JS  
-🔗 [(https://github.com/miguelsouuza/Calculadora)]
+### API de IA
+API em C# que processa textos utilizando inteligência artificial para análise e automação de dados.
+🔗[https://github.com/miguelsouuza/text-processing-ai-api]
+
+### Processo Digital
+Sistema de automação de processos jurídicos com foco em digitalização, organização e eficiência operacional.
+🔗[https://github.com/miguelsouuza/legal-process-automation]
 
 ---
 
